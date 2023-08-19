@@ -1,3 +1,6 @@
+## Intro
+This project is just a demo for how to implement websocket server in Golang. 
+
 ## Websocket protocol
 Websocket is persistent bidirectional protocol used in chat applications. Unlike other protocol like http, 
 you don't have to establish connection again and again. Its a persistent duplex communication. 
